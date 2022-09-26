@@ -1,6 +1,7 @@
 ### Hi there 👋
- I am a student at Bilkent University, studying Mechanical Engineering (rather unsuccesfully)
- I am also trying to learn Java, not only for my career but also for my personal hobbies and projects
+### I am a student at Bilkent University, studying Mechanical Engineering (rather unsuccesfully)
+### I am also trying to learn Java, not only for my career but also for my personal hobbies and projects
+###
  I wish we had more programming lessons in the ME curriculum...
 
 <!--
