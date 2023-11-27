@@ -1,8 +1,8 @@
 ### Hi there 👋
-### I am a student at Bilkent University, studying Mechanical Engineering (rather unsuccesfully)
-### I am also trying to learn Java, not only for my career but also for my personal hobbies and projects
+### I am a graduate from Bilkent University Mechanical Engineering
+### I am currently working on a game with Unity
 ###
- I wish we had more programming lessons in the ME curriculum...
+ 
 
 <!--
 **aviculara/aviculara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
