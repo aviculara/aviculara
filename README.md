@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am a graduate from Bilkent University Mechanical Engineering
-### I am currently learning Unity
+### I am currently developing a game with Unity
 ###
  
 
