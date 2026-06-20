@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I am a graduate from Bilkent University Mechanical Engineering
+### I am currently studying Mechatronics at THD
 ###
  
 
